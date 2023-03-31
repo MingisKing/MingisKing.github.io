@@ -1,3 +1,37 @@
+html{
+    background-image: url(https://img.freepik.com/free-vector/realistic-galaxy-background_23-2148991322.jpg?w=1060&t=st=1679476141~exp=1679476741~hmac=1deef18a5649215f4ac1109caed4889b8b89ac4904cd9a90230f7a6c0143508b);
+    background-size : auto;
+}
+
 #name{
-    color : red;
+    color : lightskyblue;
+    font-style: oblique;
+    text-align: center;
+}
+
+.sidebar{
+    display: sticky;
+    background-color: aliceblue;
+    opacity: 0.9;
+    width: fit-content;
+    border: 5px lightcyan solid;
+    border-radius: 10px;
+}
+
+.sidebar a{
+    text-align: center;
+    display: block;
+    padding: 10px;
+    border: 5px black solid;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border-radius: 10px;
+    text-decoration: none;
+    opacity: 1;
+}
+
+#desc{
+    font-size: large;
+    text-align: center;
+    color: aquamarine;
 }
