@@ -1,5 +1,5 @@
 html{
-    background-image: url(https://img.freepik.com/free-vector/realistic-galaxy-background_23-2148991322.jpg?w=1060&t=st=1679476141~exp=1679476741~hmac=1deef18a5649215f4ac1109caed4889b8b89ac4904cd9a90230f7a6c0143508b);
+    background-image: url(https://i.ytimg.com/vi/3fe_j3Tq7gM/maxresdefault.jpg);
     background-size : auto;
 }
 
@@ -11,10 +11,10 @@ html{
 
 .sidebar{
     display: sticky;
-    background-color: aliceblue;
+    background-color: rgb(25, 87, 141);
     opacity: 0.9;
     width: fit-content;
-    border: 5px lightcyan solid;
+    border: 5px rgb(0, 255, 255) solid;
     border-radius: 10px;
 }
 
@@ -22,12 +22,13 @@ html{
     text-align: center;
     display: block;
     padding: 10px;
-    border: 5px black solid;
+    border: 5px rgb(0, 123, 255) solid;
     margin-top: 20px;
     margin-bottom: 20px;
     border-radius: 10px;
     text-decoration: none;
     opacity: 1;
+    background-color: aquamarine;
 }
 
 #desc{
